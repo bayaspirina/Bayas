@@ -60,11 +60,11 @@ author: Bayas
 
 3. &nbsp;
 
-| **Aristóteles**                                                                     | **Platón**                                                               |
-|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| El conocimiento proviene principalmente de la experiencia, lo sensible.             | La única forma de conocer es a través de lo inteligible, lo racional.    |
-| Aquello que existe son los objetos concretos, lo sensible.                          | La realidad son las Ideas, lo inteligible. Lo sensible es solo aparente. |
-| Solo las sustancias (compuestas de materia y forma) son las verdaderas existencias. | Hay formas puras y separadas.                                            |
+    | **Aristóteles**                                                                     | **Platón**                                                               |
+    |-------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+    | El conocimiento proviene principalmente de la experiencia, lo sensible.             | La única forma de conocer es a través de lo inteligible, lo racional.    |
+    | Aquello que existe son los objetos concretos, lo sensible.                          | La realidad son las Ideas, lo inteligible. Lo sensible es solo aparente. |
+    | Solo las sustancias (compuestas de materia y forma) son las verdaderas existencias. | Hay formas puras y separadas.                                            |
 
 4. &nbsp;
 
