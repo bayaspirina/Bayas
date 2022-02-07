@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: Publicaciones recientes
+  link: /reciente/
+- name: Sobre nosotros
+  link: /sobre_nosotros/
+- name: Contribuidores
+  link: /contribuidores/
+- name: Donar
+  link: /donar/
