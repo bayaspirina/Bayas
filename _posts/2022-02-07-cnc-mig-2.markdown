@@ -1,0 +1,125 @@
+---
+layout: post
+title:  "Desarrollo: CNC y MIG"
+date:   2022-02-07 15:50:22 -0300
+categories: Diseño-y-Procesamiento-Mecanico
+grado: 6S
+author: Bayas
+---
+# Objetivo:
+
+- Profundizar conocimientos en el uso y mantenimiento de herramientas CNC y MIG.
+
+# Fuentes:
+
+- [Tabla de mantenimiento de torno - Haas CNC](https://www.haascnc.com/es/service/troubleshooting-and-how-to/reference-documents/lathe-maintenance-schedule.html)
+- [Mantenimiento de torno CNC - Mecánica Curiel](https://mecanicacuriel.com/2017/05/29/mantenimiento-torno-cnc/)
+- [Mantenimiento de una maquina de soldar - Solyman](https://www.solyman.com/como-realizar-el-mantenimiento-de-una-maquina-de-soldar/)
+- [Mantenimiento basico de soldadoras - De Maquinas y Herramientas](https://www.demaquinasyherramientas.com/soldadura/cuidados-y-mantenimientos-soldadoras)
+- [Tornos Gauchito](https://gauchito.com.ar/imprimir.asp?id=333)
+
+# Actividad:
+
+1. Seleccionar un tipo de torno CNC, tratar de especificar sus características técnicas y marca y modelo. Explicar que tipos de mantenimientos se le realizarían y porque después de cada trabajo. Y pesando en el operario, decir que tipo de indumentaria debería utilizar y que tipo de protecciones personales debe tener en cuenta.
+2. Seleccionar un tipo de soldadora MIG. Tratar de especificar sus características técnicas y marca y modelo. Explicar que tipos de mantenimientos se le realizarían y porque después de cada trabajo. Y pensando el operario, decir que tipo de indumentaria debería utilizar y que tipo de protecciones personales debe tener en cuenta.
+
+# Respuestas:
+
+1. &nbsp;
+
+    | Modelo                                         | Gauchito Tango 320mm     |
+    |------------------------------------------------|--------------------------|
+    | Ancho de bancada                               | 210mm                    |
+    | Motor principal                                | 5,5hp                    |
+    | Distancia entre puntas                         | 650mm                    |
+    | Máx. oscilación   sobre el banco               | 360mm                    |
+    | Máx. oscilación   sobre el carro               | 150mm                    |
+    | Máx. longitud de   corte                       | 500/750mm                |
+    | Ancho del carril                               | 260mm                    |
+    | Nariz del eje                                  | A2-6                     |
+    | Agujero del eje                                | 60mm                     |
+    | Conicidad de la   velocidad del eje            | MT6                      |
+    | Rango de la   velocidad del eje                | 150-2500rpm              |
+    | Recorrido del eje X                            | 350mm                    |
+    | Recorrido del eje Z                            | 500/750 rpm              |
+    | Velocidad rápida   X/Z                         | 4/7m/min                 |
+    | Estación del   portaherramientas               | 4 o 6 o 8                |
+    | Sección máxima del   peaje                     | 20x20mm                  |
+    | Trazo del mango de   contrapunto               | 100mm                    |
+    | Diámetro/agujero   del mango de contrapunto    | 50mm/MT4                 |
+    | Potencia del motor   principal                 | 3.7 kW                   |
+    | Potencia de la   bomba refrigerante            | 120W                     |
+    | Dimensiones   generales                        | 1740/2000x1210x1650mm    |
+    | Tamaño del   aparcamiento                      | 1960/2230x1410x1990mm    |
+    | Peso neto                                      | 1275/1450KG              |
+    | Peso bruto                                     | 1450/1600KG              |
+
+
+    **Qué hacer antes de empezar a trabajar:**
+    - Comprobación del  correcto funcionamiento de la parada de emergencia. Debe hacerse antes de comenzar a trabajar para tener certeza de que ante una emergencia, el botón funcione.
+    - Controlar niveles de lubricante y refrigerante antes de comenzar un trabajo. La falta tanto de lubricación como de refrigeración puede traer resultados desastrosos, no solo en la pieza a maquinar, sino que también en la maquinaria.
+    - Asegurarse que las herramientas están en buen estado. Si estas tuvieran alguna rotura, el resultado final de la pieza maquinada no sería óptimo.
+
+    \
+    &nbsp;**Qué hacer después de trabajar:**
+    - Quitar el material acumulado en la bancada, plato, torreta portaherramientas y finalizar con una limpieza de todo el torno. Si quedase viruta en alguno de estos lugares, la torreta no podría desplazarse de forma adecuada, y la pieza maquinada va a tener defectos.
+
+    \
+    &nbsp;**Indumentaria del operario:**
+    - Las mangas del guardapolvo deben terminar en tejido elástico; en su defecto, se deberán remangar por encima de los codos. Si las mangas estuvieran sueltas, correrían peligro de engancharse en alguna parte del torno.
+    - Usar protector facial o en su defecto, antiparras. Ante cualquier desperfecto, virutas o esquirlas pueden ir hacia el operario.
+    - Usar calzado de seguridad con puntera reforzada. Protege al operario de elementos que puedan caer o puedan ser parteados.
+    - Utilización de gorro para las personas que tengan el pelo largo, quedando prohibido el uso de corbatas, bufandas, pulseras, collares, anillos, u otros elementos colgantes. Cualquier elemento colgante presenta un peligro de engancharse en alguna parte del torno.
+    - Uso de guantes para manipulación de viruta. Los guantes protegen las manos del operario de cortes y pinchazos.
+
+    \
+    &nbsp;**Recaudos del operario:**
+    - Nunca dejar la llave en el plato luego de haber ajustado una pieza. Si el plato comenzara a girar con la llave puesta, esta podría salir despedida dañando al operario, o golpear contra la bancada corriendo el riesgo de romperla, doblar el husillo o dañar el plato.
+    - No engrasar mecanismos en movimiento.  Es demasiado peligroso e innecesario, para cualquier tarea de esta índole, la maquina debe estar parada.
+    \
+    &nbsp;
+
+2. &nbsp;
+
+    | Modelo            | LA-SER TMIG 450  |
+    |-------------------|------------------|
+    | Alimentación      | 220v             |
+    | Potencia          | 20kwa            |
+    | Corriente máxima  | 450 A            |
+    | Factor Sevicios   | 60% - 310A       |
+    | Tensión en vacío  | 55v              |
+    | Regulación        | 24               |
+    | Masas             | 2                |
+    | Diámetro alambre  | 0,6mm/1,2mm      |
+    | Dimensiones en mm | 1080 x 460 x 930 |
+    | Peso              | 120kg            |
+    | Rollo de alambre  | 15/18kg          |
+
+    **Qué hacer antes de empezar a trabajar:**
+    - Verificar que la soldadora esté conectada al toma corriente con el voltaje correcto. Esto se hace porque hay soldadoras monofásicas, trifásicas e incluso bifásicas, aunque estas últimas no siguen produciéndose.
+    - Ubicar el equipo en un lugar seguro, donde ningún objeto  o líquido pueda caer sobre él por accidente. Un golpe o líquidos podrían dañar los circuitos y diversos mecanismos de la soldadora.
+    - Verificar que todo el cableado de la soldadora se encuentre en buen estado, antes de iniciar el trabajo. En caso de haber una fuga de corriente, el resultado no será el esperado.
+    - Verificar que la manguera del gas no se encuentra doblada o perforada. Si esto fuera así, la presión de gas en la antorcha no será la adecuada.
+    - Comprobar la presión del tubo de gas. El tener una presión de gas no adecuada afecta directamente la calidad de la soldadura.
+
+    \
+    &nbsp;**Qué hacer después de trabajar:**
+    - Limpiar los rodillos, ya que estos pueden acumular suciedad. Hacerlo con aire comprimido seco, o extraer los rodillos y limpiarlos con un cepillo. La suciedad llega ahí arrastrada por el alambre, y puede dificultar el correcto pasaje de este.
+    - Quitar suciedad y restos de material de la boquilla de la pistola y del difusor. Si estos están obstruidos, el alambre no va a poder salir de forma adecuada.
+
+    \
+    &nbsp;**Indumentaria del operario:**
+    - Máscara o careta de soldar: Es el elemento básico para aplicar una soldadura. Protege los ojos de radiaciones en el proceso de soldadura, protege también la cara y el cuello. Debe estar provista de filtros inactínicos de acuerdo al proceso e intensidad de corriente empleada
+    - Mascarillas respiratorias para humos metálicos o respiradores con filtro: está mascarilla debe usarse siempre debajo de la máscara para soldar.
+    - Guantes de cuero: tipo mosquetero con costura interna, para proteger las manos y muñecas al manipular las piezas metálicas calientes.
+    - Mangas o casaca de cuero: se utilizan para evitar las severas quemaduras que pueden ocasionar las salpicaduras del metal fundido.
+    - Bota en cuero tipo soldador: Con puntera de acero para proteger los pies de la posible caída de piezas o elementos pesados que puedan causar daño. Traen caña alta sin cordones para evitar el atrape de proyecciones de la soldadura.
+    - Delantal de cuero con protección de plomo: para proteger el cuerpo de salpicaduras y de la exposición a los rayos ultravioletas.
+    - Overol: se utilizan tejidos a base de algodón resistentes a las salpicaduras (jean o dril), nunca tejidos sintéticos. La pierna del pantalón debe cubrir las botas para evitar que penetren salpicaduras dentro de las mismas y las mangas de la camisa deben ser largas para proteger los brazos. La ropa del soldador siempre debe permanecer seca para evitar descargas eléctricas.
+
+    \
+    &nbsp;**Recaudos del operario:**
+    - No trabajar cerca de líquidos inflamables. Si una chispa cayera en estos, la soldadora, el operario y el lugar de trabajo correrían peligro de incendiarse.
+    - No trabajar en lugares confinados, sin ventilación adecuada. Durante el proceso de soldadura, se generan gases nocivos para el humano y si la ventilación no es adecuada, pueden afectar al operario.
+    - No trabajar al aire libre. Si se trabaja al aire libre, cualquier brisa puede modificar la atmosfera creada por el gas protector.
+    - No trabajar en lugares húmedos. Si el lugar es húmedo, pueden ocurrir fugas de corriente que afecten al operario.
