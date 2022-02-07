@@ -17,6 +17,7 @@ author: Bayas
 - [Mantenimiento de una maquina de soldar - Solyman](https://www.solyman.com/como-realizar-el-mantenimiento-de-una-maquina-de-soldar/)
 - [Mantenimiento basico de soldadoras - De Maquinas y Herramientas](https://www.demaquinasyherramientas.com/soldadura/cuidados-y-mantenimientos-soldadoras)
 - [Tornos Gauchito](https://gauchito.com.ar/imprimir.asp?id=333)
+- [Catalogo LA-SER](http://www.la-ser.com.ar/laser2020.pdf)
 
 # Actividad:
 
