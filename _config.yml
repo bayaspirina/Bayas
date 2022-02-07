@@ -22,7 +22,7 @@ title: Bayas' Dumpster
 email: jerogua@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Find whatever i post, whenever i do. No refunds.n
-baseurl: "Bayas" # the subpath of your site, e.g. /blog
+baseurl: "/Bayas" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jeroguas
 github_username:  bayaspirina
