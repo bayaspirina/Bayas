@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "Tecnologias: CNC y MIG"
+date:   2022-02-07 15:45:22 -0300
+categories: Diseño-y-Procesamiento-Mecanico
+grado: 6S
+author: Bayas
+---
+# Objetivo:
+
+- Profundizar conocimientos en las tecnologias CNC y MIG.
+
+# Fuentes:
+
+- [Historia y evolución del CNC](http://industriasyempresas.com.ar/node/2088)
+- [Soldadura MIG/MAG, orgines - EcurRED](https://www.ecured.cu/Soldadura_MIG#Or.C3.ADgenes)
+
+# Actividad:
+
+1. Dada las sigla CNC (control numérico computarizado) realizar una búsqueda y una breve reseña histórica de cómo surgió y lugar, y en qué tipo de máquinas – herramientas fueron las primeras a las cuales se aplicó esta tecnología.
+
+2. Dada esta tecnología CNC y los ya conocidos tornos convencionales que han utilizado en años anteriores. Realizar un cuadro en donde nombren ventajas y desventajas entre uno y otro. Ya sea económico, puesta a puntos, productividad, finalización de piezas, y otras características que crean importantes.
+
+3. Pensando en la soldadora MIG realizar una búsqueda y una breve reseña histórica de cómo surgió y lugar.
+
+4. Dada esta tecnología MIG y los ya conocida soldadora convencional que han utilizado en años anteriores. Realizar un cuadro en donde nombren ventajas y desventajas entre uno y otro. Ya sea económico, puesta a puntos, productividad, finalización de piezas, y otras características que crean importantes.
+
+# Respuestas:
+
+1. Las bases del CNC datan de 1942, introducidas por Parsons Works, fabricante de componentes para aviación americano, que ante los problemas de obtener palas de hélices idénticas, calculo los puntos de la trayectoria del mecanizado, para posteriormente introducirlo en una máquina automática para que los ejecutase.
+
+    A partir de este momento se comenzó a investigar y evolucionar el concepto, en 1960 se creó el primer centro de mecanizado con cambio automático de herramientas y en 1968 se creó el Control Directo, que permitía que un ordenador gestionara varios Controles.
+
+    El primer CNC fue creado en 1972, y este permitía interpretar ecuaciones matemáticas y realizar los cálculos necesarios para la generación de las trayectorias a mecanizar y los desplazamientos óptimos de las herramientas.
+
+2. &nbsp;
+
+    | Ventajas Tornos CNC                                                                                 | Desventajas Tornos CNC                                  | Ventajas Tornos convencionales                                      | Desventajas Tornos CNC                                                                              |
+    |-----------------------------------------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+    | - Reducción de tiempos de mecanizado.                                                               | - Alto costo para su adquisición.                       | - El costo de compra es bajo.                                       | - Se necesita mucho tiempo para adquirir las habilidades necesarias para obtener buenos resultados. |
+    | - Mayor precisión.                                                                                  | - Repuestos y accesorios costosos.                      | - El costo de repuestos y mantención es bajo.                       | - No es efectivo para mecanizar gran cantidad de piezas.                                            |
+    | - Pueden ser usados todo el día, todo el año y solo hay que pararlo para realizar el mantenimiento. | - Requiere muchas horas de trabajo para ser amortizado. | - Optimo para mecanizar poca cantidad de piezas de distintos tipos. | - Solo puede actuar una o dos herramientas de corte al mismo tiempo.                                |
+    | - Requieren poca cantidad de personal capacitado.                                                   |                                                         |                                                                     |                                                                                                     |
+    | - Pueden accionarse varias herramientas de corte al mismo tiempo.                                   |                                                         |                                                                     |                                                                                                     |
+
+3. El precedente de la soldadura MIG fue la soldadura por arco de tungsteno con gas (GTAW) que fue patentada por Charles L. Coffin en 1890. El concepto fue mejorado por P.K. Devers, quien usó argón. Este proceso fue ideal para soldar magnesio y también para soldar acero inoxidable y aluminio. Fue perfeccionado en 1941, y patentado por Meredith, llamándolo soldadura “Heliarc”.
+
+    El proceso de soldadura por arco de gas y metal (GMAW) se desarrolló con éxito en Battelle Memorial Institute en 1948, bajo el patrocinio de Air Reduction Company. Este desarrollo utilizó el arco blindado de gas similar al arco de tungsteno de gas, pero reemplazó el electrodo de tungsteno con un cable de electrodo alimentado continuamente. Uno de los cambios básicos que hizo que el proceso fuera más utilizable fueron los cables de electrodo de diámetro pequeño y la fuente de alimentación de voltaje constante. La introducción inicial de GMAW fue para soldar metales no ferrosos. La alta tasa de deposición llevó a los usuarios a probar el proceso en acero. El costo del gas inerte era relativamente alto, y los ahorros de costos no estaban disponibles de inmediato.
+
+4. &nbsp;
+
+
+| Ventajas MIG/MAG                                                                                     	| Desventajas MIG/MAG                                             	| Ventajas Arco                                                                       	| Desventajas Arco                                                                      	|
+|------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------	|-------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------	|
+| - Permiten trabajar en cualquier posición.                                                           	| - El costo de operación es relativamente alto.                  	| - Se realizan fácilmente soldaduras robustas.                                       	| - El proceso es discontinuo debido a la longitud limitada de los electrodos.          	|
+| - Se pueden obtener diferentes grados de espesores sin necesidad de preparar los bordes de la pieza. 	| - Distancia limitada entre el equipo y el lugar de trabajo.     	| - Equipo simple, portátil y de bajo costo.                                          	| - Por tratarse de una soldadura manual, requiere gran pericia por parte del soldador. 	|
+| - No emite agentes de contaminación.                                                                 	| - Dificultada para trabajar al aire libre.                      	| - Aplicable a una amplia variedad de metales, posiciones de soldadura y electrodos. 	| - La soldadura puede contener inclusiones de escoria.                                 	|
+| - La superficie soldada queda limpia y sin escoria.                                                  	| - Enfriamiento más rápido en comparación con otros métodos.     	| - Posee tasas de deposición del metal relativamente altas.                          	|                                                                                       	|
+| - Hay un menor número de empalmes en cordones largos y hay pocas salpicaduras.                       	| - Limitación en lugares de difícil acceso.                      	| - Adecuada para aplicaciones en exteriores.                                         	|                                                                                       	|
+|                                                                                                      	| - Mano de obra más calificada que para el proceso convencional. 	|                                                                                     	|                                                                                       	|
