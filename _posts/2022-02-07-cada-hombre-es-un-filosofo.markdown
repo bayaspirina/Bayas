@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cada hombre es un filósofo"
-date:   2022-02-06 22:49:22 -0300
+date:   2022-02-07 14:32:22 -0300
 categories: Filosofia
 grado: 6S
 author: Bayas
