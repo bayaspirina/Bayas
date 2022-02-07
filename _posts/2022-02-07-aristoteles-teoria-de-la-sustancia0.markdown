@@ -68,10 +68,10 @@ author: Bayas
 
 4. &nbsp;
 
-| Sustancia:   | Tabla  |
-|--------------|--------|
-| Materia:     | Madera |
-| Forma:       | Tabla  |
-| Acto:        | Tabla  |
-| Potencia:    | Silla  |
-| Causa final: | Silla  |
+    | Sustancia:   | Tabla  |
+    |--------------|--------|
+    | Materia:     | Madera |
+    | Forma:       | Tabla  |
+    | Acto:        | Tabla  |
+    | Potencia:    | Silla  |
+    | Causa final: | Silla  |
