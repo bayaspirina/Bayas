@@ -48,7 +48,6 @@ author: Bayas
     - Falta de compromiso de la empresa con la sociedad.
     - Falta de compromiso de los empleados.
     - Mala lectura del mercado.  
-    \
     &nbsp;
 4. Sus alfajores son los más vendidos ya que tienen un bajo precio, pero mantienen una buena calidad.
 
@@ -65,4 +64,4 @@ author: Bayas
     &nbsp;
 7. Opino que la empresa cumple con todas las normas legales vigentes, ya que, si no lo hiciera, la empresa seria clausurada y todos los medios hablarían de esto.
 
-8. Según lo visto en el video, todos los empleados cumplen con las condiciones de seguridad y limpieza. 
+8. Según lo visto en el video, todos los empleados cumplen con las condiciones de seguridad y limpieza.
