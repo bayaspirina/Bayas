@@ -18,6 +18,8 @@ author: Bayas
 - [La Física de Aristóteles - UnProfesor](https://www.youtube.com/watch?v=gnNnwV4rkhs){:target="_blank"}
 - [Aristóteles- Teoría de la Sustancia (PDF)](https://bayaspirina.github.io/Bayas/assets/Sustancia.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gnNnwV4rkhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Actividad:
 
 1. Identifica cuáles son las preguntas y dudas que guían la investigación de Aristóteles. ¿Cómo las responde el filósofo?
