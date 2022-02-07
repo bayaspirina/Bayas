@@ -58,7 +58,7 @@ author: Bayas
 
 2. Según Aristóteles, el cambio ocurre porque la forma que cambia está informada por la forma a la que cambiará, ¿Cómo ocurriría este pasaje de información? ¿Significaría esto que las formas potenciales conviven junto a las formas en acto?
 
-3.
+3. &nbsp;
 
 | **Aristóteles**                                                                     | **Platón**                                                               |
 |-------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
@@ -66,7 +66,7 @@ author: Bayas
 | Aquello que existe son los objetos concretos, lo sensible.                          | La realidad son las Ideas, lo inteligible. Lo sensible es solo aparente. |
 | Solo las sustancias (compuestas de materia y forma) son las verdaderas existencias. | Hay formas puras y separadas.                                            |
 
-4.
+4. &nbsp;
 
 | Sustancia:   | Tabla  |
 |--------------|--------|
