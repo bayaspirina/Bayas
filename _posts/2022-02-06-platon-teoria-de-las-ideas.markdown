@@ -15,6 +15,7 @@ author: Bayas
 # Fuentes:
 
 - [www.webdianoia.com/platon/platon.htm](https://www.webdianoia.com/platon/platon_fil_ideas.htm)
+- [Platón - Teoría de las Ideas (PDF)](https://bayaspirina.github.io/Bayas/assets/Ideas.pdf)
 
 # Actividad:
 
