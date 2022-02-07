@@ -15,7 +15,7 @@ author: Bayas
 
 # Fuentes:
 
-- [La Física de Aristóteles - UnProfesor](https://www.youtube.com/watch?v=gnNnwV4rkhs)
+- [La Física de Aristóteles - UnProfesor](https://www.youtube.com/watch?v=gnNnwV4rkhs){:target="_blank"}
 - [Aristóteles- Teoría de la Sustancia (PDF)](https://bayaspirina.github.io/Bayas/assets/Sustancia.pdf)
 
 # Actividad:

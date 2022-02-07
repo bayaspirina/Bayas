@@ -12,8 +12,8 @@ author: Bayas
 
 # Fuentes:
 
-- [Historia y evolución del CNC](http://industriasyempresas.com.ar/node/2088)
-- [Soldadura MIG/MAG, orgines - EcurRED](https://www.ecured.cu/Soldadura_MIG#Or.C3.ADgenes)
+- [Historia y evolución del CNC](http://industriasyempresas.com.ar/node/2088){:target="_blank"}
+- [Soldadura MIG/MAG, orgines - EcurRED](https://www.ecured.cu/Soldadura_MIG#Or.C3.ADgenes){:target="_blank"}
 
 # Actividad:
 
