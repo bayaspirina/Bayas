@@ -23,7 +23,7 @@ author: Bayas
 3. Elige 3 de las oraciones de las resaltadas en negrita, y explica con tus palabras lo que entendiste de ellas.
 4. Resume en una carilla o dos, qué importancia tiene entonces la filosofía para el hombre. Es decir, finalmente qué quedo en vos de esta lectura. Para ello, te servirás del punto 1, 2, y 3, por eso es muy importante que realices todos los pasos marcados.
 
-# Respuestas
+# Respuestas:
 
 1. [Ver PDF de "Fuentes"](https://bayaspirina.github.io/Bayas/assets/CadaHombreEsUnFilosofo.pdf)
 

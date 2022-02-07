@@ -24,7 +24,7 @@ author: Bayas
 3. ¿Cómo se distinguen los objetos de los contenidos mentales? ¿Los objetos de los que habla Platón, son los mismos a los que nosotros llamamos objetos?
 4. Si analizas la manera en qué Platón divide la realidad, ¿con que filósofos presocráticos lo identificarías? Y, si pensaras en otro tipo de relato, no filosófico ¿Cuál te parece que encaja con este que Platón ideó hace 2500 años?
 
-# Respuestas
+# Respuestas:
 
 1. Para platón, la realidad puede dividirse en dos partes.
 

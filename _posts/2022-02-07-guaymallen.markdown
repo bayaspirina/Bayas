@@ -27,7 +27,7 @@ author: Bayas
 8. ¿Pensás que ésta empresa cumple con las normas legales vigentes de tener todos sus empleados registrado (que les paga una ART, Vacaciones, aguinaldo, obra social, jubilación, etc)? ¿Por qué?
 9. Viendo como trabajan y visten los empleados, ¿te parece que cumplen con las condiciones de seguridad ( cascos, guantes, protectores de oídos, etc) y de limpieza en la fábrica?
 
-# Respuestas
+# Respuestas:
 
 1. Caracteristicas y aspectos sobresalientes:
 

@@ -35,7 +35,7 @@ author: Bayas
 
     f)	¿Cuál es su causa final?
 
-# Respuestas
+# Respuestas:
 
 1. Las preguntas más importantes que se hizo Aristóteles fueron relacionadas al cambio.
 
