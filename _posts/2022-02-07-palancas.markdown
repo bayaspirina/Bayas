@@ -41,4 +41,8 @@ author: Bayas
 
     ![Ejercicio 9](https://bayaspirina.github.io/Bayas/assets/palancas-file-4.png)
 
+10. Calcula la fuerza que hay que realizar en una palanca de primer género para levantar un peso de 100 N, sabiendo que el brazo de potencia es de 100 mm y el de resistencia de 80 cm.
+11. Un mecanismo para poner tapones manualmente a las botellas de vino es como se muestra en el esquema de la figura. Si la fuerza necesaria para introducir el tapón es de 50 N. ¿Que fuerza se ejerce sobre el mango?
+
+    ![Ejercicio 11](https://bayaspirina.github.io/Bayas/assets/palancas-file-5.png)
 # Respuestas:
