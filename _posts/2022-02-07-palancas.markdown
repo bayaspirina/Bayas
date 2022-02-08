@@ -8,11 +8,12 @@ author: Bayas
 ---
 # Objetivo:
 
--
+- Diferenciar los distintos tipos de palancas.
+- Aplicar la ley de la palanca.
 
 # Fuentes:
 
-- [Tabla de mantenimiento de torno - Haas CNC](https://www.haascnc.com/es/service/troubleshooting-and-how-to/reference-documents/lathe-maintenance-schedule.html){:target="_blank"}
+- [Ley de la palanca - Wikipedia](https://es.wikipedia.org/wiki/Palanca#Ley_de_la_palanca){:target="_blank"}
 
 
 # Actividad:
