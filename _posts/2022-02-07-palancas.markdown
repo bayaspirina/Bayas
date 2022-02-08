@@ -20,9 +20,10 @@ author: Bayas
 1. Transcribir la ley de la palanca y escribir su fórmula matemática.
 2. Realizar un dibujo de una palanca de primer genero indicando todas sus partes.
 3. Indica si los siguientes objetos son palancas de primer, segundo o tercer grado: sacacorchos, tijera, pinza, pala, grúa y carretilla.
-4. Calcula el peso que puedo levantar con la palanca del siguiente dibujo si mi fuerza es de 10kg.
+4. Dibuja donde se encuentran la potencia, brazo de potencia, resistencia y brazo de resistencia en un cascanueces, una carretilla, unas tijeras y una escoba.
+5. Calcula el peso que puedo levantar con la palanca del siguiente dibujo si mi fuerza es de 10kg.
 
-![Ejercicio 5](/assets/palancas-file-1)
+![Ejercicio 5](/assets/palancas-file-1.png)
 
 
 
