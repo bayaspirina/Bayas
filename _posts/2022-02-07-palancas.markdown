@@ -47,6 +47,7 @@ author: Bayas
     ![Ejercicio 9](https://bayaspirina.github.io/Bayas/assets/palancas-file-4.png)
 
 10. Calcula la fuerza que hay que realizar en una palanca de primer género para levantar un peso de 100 N, sabiendo que el brazo de potencia es de 100 mm y el de resistencia de 80 cm.
+
 11. Un mecanismo para poner tapones manualmente a las botellas de vino es como se muestra en el esquema de la figura. Si la fuerza necesaria para introducir el tapón es de 50 N. ¿Que fuerza se ejerce sobre el mango?
 
     ![Ejercicio 11](https://bayaspirina.github.io/Bayas/assets/palancas-file-5.png)
@@ -75,3 +76,26 @@ author: Bayas
 
 
 # Respuestas:
+
+1. La ley de la palanca dice lo siguiente: “Potencia por brazo de potencia es igual a resistencia por brazo de resistencia”, y su fórmula matemática es la siguiente:
+    P.B~P~ = R.B~R~
+
+    Potencia(P)
+    Brazo de la Potencia (B~P~)
+    Resistencia (R)
+    Brazo de la Resistencia (B~R~)
+
+2. &nbsp;
+
+    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/palancas-file-6.png)
+
+3. &nbsp;
+
+    |                    |     1er grado    |     2do grado    |     3er grado    |
+    |--------------------|------------------|------------------|------------------|
+    |     Sacacorchos    |                  |     X            |                  |
+    |     Tijera         |     X            |                  |                  |
+    |     Pinza          |     X            |                  |                  |
+    |     Pala           |                  |                  |     X            |
+    |     Grúa           |     X            |                  |                  |
+    |     Carretilla     |                  |     X            |                  |
