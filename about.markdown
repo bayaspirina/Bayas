@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sobre Nosotros
-permalink: /sobre_nosotros/
+title: Sobre Mí
+permalink: /sobre_mi/
 ---
 
 This is my first website.
