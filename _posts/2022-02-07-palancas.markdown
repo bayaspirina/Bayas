@@ -233,4 +233,20 @@ author: Bayas
 
     Respuesta: El punto de apoyo debe estar a 5/6 m del objeto de 12kg, y a 25/6 m del objeto de 60kg.
 
-14. 
+14. &nbsp;
+
+    | **Potencia (N)** | **Brazo de potencia (m)** | **Resistencia (N)** | **Brazo de resistencia (m)** |
+    |------------------|---------------------------|---------------------|------------------------------|
+    | 10               | 2                         | 4                   | **5m**                       |
+    | **45N**          | 0,5                       | 15                  | 1,5                          |
+    | 20               | 1                         | 10                  | **2m**                       |
+    | 9                | 6                         | **18N**             | 3                            |
+
+15. &nbsp;
+
+    | **Potencia** | **Brazo de potencia** | **Resistencia** | **Brazo de resistencia** |
+    |--------------|-----------------------|-----------------|--------------------------|
+    | **2N**       | 10 m                  | 4 N             | 500 cm                   |
+    | 2,5 kg       | **~2m**               | 10 N            | 5 m                      |
+    | 12 N         | 3000 mm               | **0,5N**        | 72 m                     |
+    | 10 N         | **1m**                | 3 N             | **~3,33m**               |
