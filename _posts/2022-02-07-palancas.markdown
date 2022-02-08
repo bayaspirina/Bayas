@@ -155,7 +155,8 @@ author: Bayas
 
     A) Es una palanca de 2do Grado.
 
-    B) ![Respuesta](https://bayaspirina.github.io/Bayas/assets/palancas-file-13.png)
+    B)
+    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/palancas-file-13.png)
 
     C)
 
@@ -167,4 +168,36 @@ author: Bayas
 
       1250N = R
 
-9. 
+9. &nbsp;
+
+    P.Bp = R.Br
+
+    2Kg.15cm = R.40cm
+
+    (30Kg.cm)/40cm = R
+
+    0.75Kg = R
+
+10. &nbsp;
+
+    R.Br = P.Bp
+
+    100N.80cm = P.10cm
+
+    (8000N.cm)/10cm = P
+
+    800N = P
+
+    Respuesta: Hay que realizar una fuerza de 800N.
+
+11. &nbsp;
+
+    R.Br = P.Bp
+
+    50N.0,20m = P.0,5m
+
+    (10N.m)/0,5m = P
+
+    20N = P
+
+12.
