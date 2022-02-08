@@ -23,13 +23,17 @@ author: Bayas
 4. Dibuja donde se encuentran la potencia, brazo de potencia, resistencia y brazo de resistencia en un cascanueces, una carretilla, unas tijeras y una escoba.
 5. Calcula el peso que puedo levantar con la palanca del siguiente dibujo si mi fuerza es de 10kg.
 
-![Ejercicio 5](https://bayaspirina.github.io/Bayas/assets/palancas-file-1.png)
+  ![Ejercicio 5](https://bayaspirina.github.io/Bayas/assets/palancas-file-1.png)
 
 6. Calcula el valor del brazo de resistencia en el siguiente ejemplo referido a una grúa.
 
-![Ejercicio 6](https://bayaspirina.github.io/Bayas/assets/palancas-file-2.png)
+  ![Ejercicio 6](https://bayaspirina.github.io/Bayas/assets/palancas-file-2.png)
 
 7. En una palanca de primer género el brazo de potencia mide 1m, si la potencia y la resistencia miden 15 y 30 N respectivamente, calcula el brazo de resistencia y la longitud de la palanca.
-
+8. Sobre el siguiente dibujo.
+    - Identifica el tipo de palanca del dibujo.
+    - Identifica los distintos elementos de una palanca sobre el dibujo.
+    - Calcula el valor de la resistencia.
+9. 
 
 # Respuestas:
