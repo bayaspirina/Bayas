@@ -78,7 +78,10 @@ author: Bayas
 # Respuestas:
 
 1. La ley de la palanca dice lo siguiente: “Potencia por brazo de potencia es igual a resistencia por brazo de resistencia”, y su fórmula matemática es la siguiente:
-    P.Bp = R.Br
+
+    **P.Bp = R.Br**
+
+    Donde:
 
     Potencia(P)
 
@@ -114,7 +117,54 @@ author: Bayas
 
 5. &nbsp;
 
-P.B_P= R.B_R
-10kg.10cm= R.20cm
-(100kg.cm)/20cm= R
-5kg= R
+    P.Bp = R.Br
+
+    10kg.10cm = R.20cm
+
+    (100kg.cm)/20cm = R
+
+    5kg = R
+
+    Respuesta: Puedo levantar 5 kg.
+
+6. &nbsp;
+
+    P.Bp = R.Br
+
+    10000N.5m = 5000N.Br
+
+    (50000N.m)/5000N = Br
+
+    10m = Br
+
+    Respuesta: El brazo de la resistencia es de 10m, y la longitud total de la palanca es de 5m.
+
+7. &nbsp;
+
+    P.Bp = R.Br
+
+    15N.1m = 30N.Br
+
+    (15N.m)/30N = Br
+
+    0,5m = Br
+
+    Respuesta: El brazo de la resistencia es de 0,5m, y la longitud total de la palanca es de 1,5m.
+
+8. &nbsp;
+
+    A) Es una palanca de 2do Grado.
+
+    B) ![Respuesta](https://bayaspirina.github.io/Bayas/assets/palancas-file-13.png)
+
+    C)
+
+      P.Bp = R.Br
+
+      500N.1m = R.0,4m
+
+      (500N.m)/0,4m = R
+
+      1250N = R
+
+9. 
