@@ -15,8 +15,16 @@ author: Bayas
 
 - [Ley de la palanca - Wikipedia](https://es.wikipedia.org/wiki/Palanca#Ley_de_la_palanca){:target="_blank"}
 
-
 # Actividad:
+
+1. Transcribir la ley de la palanca y escribir su fórmula matemática.
+2. Realizar un dibujo de una palanca de primer genero indicando todas sus partes.
+3. Indica si los siguientes objetos son palancas de primer, segundo o tercer grado: sacacorchos, tijera, pinza, pala, grúa y carretilla.
+4. Calcula el peso que puedo levantar con la palanca del siguiente dibujo si mi fuerza es de 10kg.
+
+![Ejercicio 5](/assets/palancas-file-1)
+
+
 
 
 # Respuestas:
