@@ -25,7 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/Bayas" # the subpath of your site, e.g. /blog
 url: "https://bayaspirina.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bayaspi
-github_username:  bayaspirina
+github_username: bayaspirina
+discord_usename: Bayaspirina_C#0810
 
 plugins:
   - jekyll-feed
