@@ -200,4 +200,37 @@ author: Bayas
 
     20N = P
 
-12.
+12. &nbsp;
+
+    R.Br = P.Bp
+
+    300N.6m = P.3m
+
+    (1800N.m)/3m = P
+
+    600N = P
+
+13. &nbsp;
+
+    X+Y = 5
+
+    X = 5-Y
+
+
+    12.X = 60.Y
+
+    12.(5-Y) = 60Y
+
+    60-12Y = 60Y
+
+    60 = 72Y
+
+    5/6 = Y
+
+
+    X+5/6 = 5
+    X = 25/6
+
+    Respuesta: El punto de apoyo debe estar a 5/6 m del objeto de 12kg, y a 25/6 m del objeto de 60kg.
+
+14. 
