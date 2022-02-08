@@ -18,9 +18,13 @@ author: Bayas
 # Actividad:
 
 1. Transcribir la ley de la palanca y escribir su fórmula matemática.
+
 2. Realizar un dibujo de una palanca de primer genero indicando todas sus partes.
+
 3. Indica si los siguientes objetos son palancas de primer, segundo o tercer grado: sacacorchos, tijera, pinza, pala, grúa y carretilla.
+
 4. Dibuja donde se encuentran la potencia, brazo de potencia, resistencia y brazo de resistencia en un cascanueces, una carretilla, unas tijeras y una escoba.
+
 5. Calcula el peso que puedo levantar con la palanca del siguiente dibujo si mi fuerza es de 10kg.
 
     ![Ejercicio 5](https://bayaspirina.github.io/Bayas/assets/palancas-file-1.png)
@@ -30,6 +34,7 @@ author: Bayas
     ![Ejercicio 6](https://bayaspirina.github.io/Bayas/assets/palancas-file-2.png)
 
 7. En una palanca de primer género el brazo de potencia mide 1m, si la potencia y la resistencia miden 15 y 30 N respectivamente, calcula el brazo de resistencia y la longitud de la palanca.
+
 8. Sobre el siguiente dibujo.
     - Identifica el tipo de palanca del dibujo.
     - Identifica los distintos elementos de una palanca sobre el dibujo.
@@ -45,4 +50,28 @@ author: Bayas
 11. Un mecanismo para poner tapones manualmente a las botellas de vino es como se muestra en el esquema de la figura. Si la fuerza necesaria para introducir el tapón es de 50 N. ¿Que fuerza se ejerce sobre el mango?
 
     ![Ejercicio 11](https://bayaspirina.github.io/Bayas/assets/palancas-file-5.png)
+
+12. Queremos levantar un cuerpo de 300 N con una palanca de primer grado de 9 m de longitud. Si el brazo de resistencia es de 3 m, ¿cual será el brazo de potencia y cuánto valdrá la potencia?
+
+13. Tenemos dos objetos de 12 y 60 kg respectivamente, si los situamos en los extremos de una planca de 5 m de longitud, determina a qué distancia debemos situar el punto de apoyo para que la palanca esté en equilibrio.
+
+14. Completa la siguiente tabla aplicando la ley de la palanca.
+
+    | **Potencia (N)** | **Brazo de potencia (m)** | **Resistencia (N)** | **Brazo de resistencia (m)** |
+    |------------------|---------------------------|---------------------|------------------------------|
+    | 10               | 2                         | 4                   |                              |
+    |                  | 0,5                       | 15                  | 1,5                          |
+    | 20               | 1                         | 10                  |                              |
+    | 9                | 6                         |                     | 3                            |
+
+15. Completa, aplicando la ley de la palanca, la siguiente tabla.
+
+    | **Potencia** | **Brazo de potencia** | **Resistencia** | **Brazo de resistencia** |
+    |--------------|-----------------------|-----------------|--------------------------|
+    |              | 10 m                  | 4 N             | 500 cm                   |
+    | 2,5 kg       |                       | 10 N            | 5 m                      |
+    | 12 N         | 3000 mm               |                 | 72 m                     |
+    | 10 N         |                       | 3 N             |                          |
+
+
 # Respuestas:
