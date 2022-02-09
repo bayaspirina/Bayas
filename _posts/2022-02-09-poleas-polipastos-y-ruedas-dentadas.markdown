@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Poleas, polipastos y ruedas dentadas"
-date:   2022-02-09 12:04:22 -0300
+date:   2022-02-09 13:08:22 -0300
 categories: Sistemas-Mecanicos
 grado: 6S
 author: Bayas
@@ -108,4 +108,62 @@ author: Bayas
 
 # Respuestas:
 
-1.
+1.  a) Se requiere una fuerza de 100N.
+
+    b) Se requiere una fuerza de 1.000N.
+
+    c) Se requiere una fuerza de 60N.
+
+2.  a) Giro horario, mayor velocidad.
+
+    b) Giro antihorario, menor velocidad.
+
+    c) Giro horario, misma velocidad.
+
+    d) Giro horario, misma velocidad.
+
+3.  Mecanismo 1:
+
+    a) Horario
+
+    b) Antihorario
+
+    c) Antihorario
+
+    d) Antihorario
+
+    e) Antihorario
+
+    f) Horario
+
+    g) Antihorario
+
+    h) Antihorario
+
+    i) Horario
+
+    Mecanismo 2:
+
+    a) Horario
+
+    b) Horario
+
+    c) Horario
+
+    d) Antihorario
+
+    e) Antihorario
+
+    f) Horario
+
+4. &nbsp;
+
+n1.d1 = n2.d2
+
+300 rpm.80 mm = n2.320 mm
+
+75 rpm = n2
+
+Relación: 75/300
+
+5.
