@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sistemas mecanicos"
-date:   2022-02-08 20:32:22 -0300
+date:   2022-02-09 12:04:22 -0300
 categories: Sistemas-Mecanicos
 grado: 6S
 author: Bayas
