@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Empresas Argentinas, Guaymallen"
-date:   2022-02-09 00:33:22 -0300
+date:   2022-02-07 00:33:22 -0300
 categories: Derechos-del-Trabajo
 grado: 6S
 author: Bayas
