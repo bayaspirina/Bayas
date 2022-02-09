@@ -227,7 +227,7 @@ author: Bayas
 
     El sistema es multiplicador.
 
-    
+
 10. &nbsp;
 
     V1/600 rpm = 6/12
@@ -251,7 +251,9 @@ author: Bayas
     500 rpm = 2.V2
 
     250 rpm = V2
-
+    \
+    &nbsp;
+    
 13. a) Para reducir la velocidad se debe colocar el engranaje de 10 dientes en el eje del motor.
 
     b) la relación de transmisión sería 3/1.
