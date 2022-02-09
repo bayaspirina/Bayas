@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Palancas"
-date:   2022-02-08 20:32:22 -0300
+date:   2022-02-07 20:32:22 -0300
 categories: Sistemas-Mecanicos
 grado: 6S
 author: Bayas
@@ -27,11 +27,11 @@ author: Bayas
 
 5. Calcula el peso que puedo levantar con la palanca del siguiente dibujo si mi fuerza es de 10kg.
 
-    ![Ejercicio 5](https://bayaspirina.github.io/Bayas/assets/palancas-file-1.png)
+    ![Ejercicio 5](https://bayaspirina.github.io/Bayas/assets/2022-02-07-palancas/palancas-file-1.png)
 
 6. Calcula el valor del brazo de resistencia en el siguiente ejemplo referido a una grúa.
 
-    ![Ejercicio 6](https://bayaspirina.github.io/Bayas/assets/palancas-file-2.png)
+    ![Ejercicio 6](https://bayaspirina.github.io/Bayas/assets/2022-02-07-palancas/palancas-file-2.png)
 
 7. En una palanca de primer género el brazo de potencia mide 1m, si la potencia y la resistencia miden 15 y 30 N respectivamente, calcula el brazo de resistencia y la longitud de la palanca.
 
@@ -40,17 +40,17 @@ author: Bayas
     - Identifica los distintos elementos de una palanca sobre el dibujo.
     - Calcula el valor de la resistencia.
 
-    ![Ejercicio 8](https://bayaspirina.github.io/Bayas/assets/palancas-file-3.png)
+    ![Ejercicio 8](https://bayaspirina.github.io/Bayas/assets/2022-02-07-palancas/palancas-file-3.png)
 
 9. Calcula la resistencia que mueve la manivela de la ruefa de la figura, sabiendo que la fuerza ejercida con el pie sobre el pedal es de 2kg.
 
-    ![Ejercicio 9](https://bayaspirina.github.io/Bayas/assets/palancas-file-4.png)
+    ![Ejercicio 9](https://bayaspirina.github.io/Bayas/assets/2022-02-07-palancas/palancas-file-4.png)
 
 10. Calcula la fuerza que hay que realizar en una palanca de primer género para levantar un peso de 100 N, sabiendo que el brazo de potencia es de 100 mm y el de resistencia de 80 cm.
 
 11. Un mecanismo para poner tapones manualmente a las botellas de vino es como se muestra en el esquema de la figura. Si la fuerza necesaria para introducir el tapón es de 50 N. ¿Que fuerza se ejerce sobre el mango?
 
-    ![Ejercicio 11](https://bayaspirina.github.io/Bayas/assets/palancas-file-5.png)
+    ![Ejercicio 11](https://bayaspirina.github.io/Bayas/assets/2022-02-07-palancas/palancas-file-5.png)
 
 12. Queremos levantar un cuerpo de 300 N con una palanca de primer grado de 9 m de longitud. Si el brazo de resistencia es de 3 m, ¿cual será el brazo de potencia y cuánto valdrá la potencia?
 
@@ -93,7 +93,7 @@ author: Bayas
 
 2. &nbsp;
 
-    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/palancas-file-6.png)
+    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/2022-02-07-palancas/palancas-file-6.png)
 
 3. &nbsp;
 
@@ -108,12 +108,12 @@ author: Bayas
 
 4. &nbsp;
 
-    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/palancas-file-7.png)
-    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/palancas-file-8.png)
-    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/palancas-file-9.png)
-    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/palancas-file-10.png)
-    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/palancas-file-11.png)
-    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/palancas-file-12.png)
+    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/2022-02-07-palancas/palancas-file-7.png)
+    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/2022-02-07-palancas/palancas-file-8.png)
+    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/2022-02-07-palancas/palancas-file-9.png)
+    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/2022-02-07-palancas/palancas-file-10.png)
+    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/2022-02-07-palancas/palancas-file-11.png)
+    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/2022-02-07-palancas/palancas-file-12.png)
 
 5. &nbsp;
 
@@ -156,7 +156,7 @@ author: Bayas
     A) Es una palanca de 2do Grado.
 
     B)
-    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/palancas-file-13.png)
+    ![Respuesta](https://bayaspirina.github.io/Bayas/assets/2022-02-07-palancas/palancas-file-13.png)
 
     C)
 
