@@ -78,11 +78,11 @@ author: Bayas
 </figure>
 
 <figure>
-  <img src="https://bayaspirina.github.io/Bayas/assets/2022-02-09-sistemas-mecanicos/file-4.jpg" alt="Polea móvil"/>
+  <img src="https://bayaspirina.github.io/Bayas/assets/2022-02-09-sistemas-mecanicos/file-4.png" alt="Polea móvil"/>
   <figcaption>Polea móvil.</figcaption>
 </figure>
 
 <figure>
-  <img src="https://bayaspirina.github.io/Bayas/assets/2022-02-09-sistemas-mecanicos/file-5.jpg" alt="Polipasto"/>
+  <img src="https://bayaspirina.github.io/Bayas/assets/2022-02-09-sistemas-mecanicos/file-5.png" alt="Polipasto"/>
   <figcaption>Polipasto.</figcaption>
 </figure>
