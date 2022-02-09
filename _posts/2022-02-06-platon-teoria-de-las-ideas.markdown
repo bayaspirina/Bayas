@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Platón, teoría de las ideas"
-date:   2022-02-06 22:49:22 -0300
+date:   2022-02-06 19:49:22 -0300
 categories: Filosofia
 grado: 6S
 author: Bayas
