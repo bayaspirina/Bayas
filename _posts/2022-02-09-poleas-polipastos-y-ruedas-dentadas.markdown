@@ -97,7 +97,7 @@ author: Bayas
     - Calcula la velocidad de giro de la polea conducida.
     - Calcula la relación de transmisión.
     - Determinar si el sistema es reductor o multiplicador.
-
+    &nbsp;
 17. Dado un mecanismo formado por dos ruedas dentadas, cuyos datos son: la rueda motriz tiene 10 dientes y su velocidad de giro es 1000 rpm; la rueda conducida tiene 20 dientes, se pide:
 
     - Representación del sistema.
@@ -113,6 +113,7 @@ author: Bayas
     b) Se requiere una fuerza de 1.000N.
 
     c) Se requiere una fuerza de 60N.
+    &nbsp;
 
 2.  a) Giro horario, mayor velocidad.
 
@@ -121,6 +122,7 @@ author: Bayas
     c) Giro horario, misma velocidad.
 
     d) Giro horario, misma velocidad.
+    &nbsp;
 
 3.  Mecanismo 1:
 
@@ -158,12 +160,28 @@ author: Bayas
 
 4. &nbsp;
 
-n1.d1 = n2.d2
+    n1.d1 = n2.d2
 
-300 rpm.80 mm = n2.320 mm
+    300 rpm.80 mm = n2.320 mm
 
-75 rpm = n2
+    75 rpm = n2
 
-Relación: 75/300
+    Relación: 75/300
 
-5.
+5. &nbsp;
+
+    n1.d1 = n2.d2
+
+    30 rpm.8 mm = n2.120 mm
+
+    2 rpm = n2
+
+6. &nbsp;
+
+    n1.d1 = n2.d2
+
+    400 rpm.120 mm = n2.40 mm
+
+    1200 rpm = n2
+
+7. &nbsp;
