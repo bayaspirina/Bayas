@@ -97,6 +97,7 @@ author: Bayas
     - Calcula la velocidad de giro de la polea conducida.
     - Calcula la relación de transmisión.
     - Determinar si el sistema es reductor o multiplicador.
+    \
     &nbsp;
 17. Dado un mecanismo formado por dos ruedas dentadas, cuyos datos son: la rueda motriz tiene 10 dientes y su velocidad de giro es 1000 rpm; la rueda conducida tiene 20 dientes, se pide:
 
@@ -113,6 +114,7 @@ author: Bayas
     b) Se requiere una fuerza de 1.000N.
 
     c) Se requiere una fuerza de 60N.
+    \
     &nbsp;
 
 2.  a) Giro horario, mayor velocidad.
@@ -122,6 +124,7 @@ author: Bayas
     c) Giro horario, misma velocidad.
 
     d) Giro horario, misma velocidad.
+    \
     &nbsp;
 
 3.  Mecanismo 1:
@@ -185,3 +188,126 @@ author: Bayas
     1200 rpm = n2
 
 7. &nbsp;
+
+    n1.d1 = n2.d2
+
+    100 rpm.80 = 400 rpm.d2
+
+    20 = d2
+
+8. &nbsp;
+
+    V1.d1 = V2.d2
+
+    V1.20 = 60 rpm.10
+
+    V1 = 30 rpm
+
+9. Mecanismo 1:
+
+    V1.d1 = V2.d2
+
+    V1.15 = 1000 rpm.60
+
+    V1 = 4000 rpm
+
+    La relación es de 4/1.
+
+    El sistema es reductor.
+
+    Mecanismo 2:
+
+    V1.d1 = V2.d2
+
+    V1.60 = 1000 rpm.15
+
+    V1 = 250 rpm
+
+    La relación es 1/4.
+
+    El sistema es multiplicador.
+
+    
+10. &nbsp;
+
+    V1/600 rpm = 6/12
+
+    V1 = 0,5.600 rpm
+
+    300 rpm = V1
+
+11. &nbsp;
+
+    100 rpm/V2 = 30/10
+
+    100 rpm = 3.V2
+
+    ~33,3 rpm = V2
+
+12. &nbsp;
+
+    500 rpm/V2 = 60/30
+
+    500 rpm = 2.V2
+
+    250 rpm = V2
+
+13. a) Para reducir la velocidad se debe colocar el engranaje de 10 dientes en el eje del motor.
+
+    b) la relación de transmisión sería 3/1.
+
+14. &nbsp;
+
+    n1.d1 = n2.d2
+
+    2500 rpm.20 mm = n2.40 mm
+
+    1250 rpm = n2
+
+15. &nbsp;
+
+    4000 rpm/V2 = 64/16
+
+    4000 rpm = 4.V2
+
+    1000 rpm = V2
+
+    Es un sistema reductor, y la relación de transmisión es de ¼.
+
+16. &nbsp;
+
+    n1.d1 = n2.d2
+
+    n1.400 mm = 1000 rpm.200 mm
+
+    n1 = 200000/400
+
+    n1 = 500 rpm
+
+    a) ![Ejercicio 16a](https://bayaspirina.github.io/Bayas/assets/2022-02-09-poleas-polipastos-y-ruedas-dentadas/file-11.png)
+
+    b) ![Ejercicio 16b](https://bayaspirina.github.io/Bayas/assets/2022-02-09-poleas-polipastos-y-ruedas-dentadas/file-12.png)
+
+    c) La polea conducida gira a 1000rpm, mientras que la polea conductora gira a 500rpm.
+
+    d) La relación de transmisión es de 2/1.
+
+    e) El sistema es multiplicador.
+
+17. &nbsp;
+
+    1000 rpm/V2 = 20/10
+
+    1000 rpm = 2.V2
+
+    500 rpm = V2
+
+    a) ![Ejercicio 171](https://bayaspirina.github.io/Bayas/assets/2022-02-09-poleas-polipastos-y-ruedas-dentadas/file-13.png)
+
+    b) ![Ejercicio 17b](https://bayaspirina.github.io/Bayas/assets/2022-02-09-poleas-polipastos-y-ruedas-dentadas/file-14.png)
+
+    c) La velocidad de la rueda conducida es de 500rpm
+
+    d) La relación de transmisión es de 1/2
+
+    e) El sistema es reductor.
