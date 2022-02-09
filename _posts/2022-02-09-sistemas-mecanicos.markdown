@@ -43,4 +43,29 @@ author: Bayas
 
     ![Géneros de palancas](https://bayaspirina.github.io/Bayas/assets/2022-02-09-sistemas-mecanicos/file-1.png)
 
-4.
+4. Tomando de referencia la imagen anterior, la fórmula es **F.d = R.r**.
+
+    Ejemplo: Para calcular la fuerza que tendremos que realizar para mover un objeto de 100kg con una palanca de primer grado sabiendo que los brazos de la resistencia de la fuerza son 50cm y 150cm respectivamente.
+
+    F . 150cm = 100kg . 50 cm
+
+    F = (500kg/cm)/150cm
+
+    F = 33,3 ̂ kg
+
+5. Una polea es una rueda ranurada que gira alrededor de un eje. Por la ranura de la polea se hace pasar una cuerda o cable que permite vencer la resistencia de manera más cómoda.
+
+    Las poleas pueden ser fijas o móviles:
+
+    Pole fija: El eje se encuentra sujeto a una superficie fija. La fuerza necesaria para vencer la resistencia es igual a esta, pero la forma de aplicar la fuerza es más cómoda.
+
+    Polea móvil: Está conectada a una cuerda que tiene uno de sus extremos fijos y el otro móvil, permitiendo que pueda moverse linealmente. La fuerza necesaria para vencer la resistencia es de la mitad, pero se necesita el doble de cuerda/cable.
+
+6. Un polipasto es un montaje de varias poleas fijas y móviles. Las poleas fijas modifican la dirección de donde se aplica la fuerza, y las poleas móviles reducen la fuerza a ejercer. La fuerza necesaria para vencer la resistencia varia con el numero de poleas y su configuración.
+
+# Imagenes extra:
+
+<figure>
+  <img src="https://bayaspirina.github.io/Bayas/assets/2022-02-09-sistemas-mecanicos/file-2.jpg" alt="Palanca de primer grado"/>
+  <figcaption>Palanca de primer grado.</figcaption>
+</figure>
