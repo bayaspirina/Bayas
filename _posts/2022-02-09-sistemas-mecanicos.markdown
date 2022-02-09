@@ -69,3 +69,18 @@ author: Bayas
   <img src="https://bayaspirina.github.io/Bayas/assets/2022-02-09-sistemas-mecanicos/file-2.jpg" alt="Palanca de primer grado"/>
   <figcaption>Palanca de primer grado.</figcaption>
 </figure>
+
+<figure>
+  <img src="https://bayaspirina.github.io/Bayas/assets/2022-02-09-sistemas-mecanicos/file-3.jpg" alt="Polea fija"/>
+  <figcaption>Polea Fija.</figcaption>
+</figure>
+
+<figure>
+  <img src="https://bayaspirina.github.io/Bayas/assets/2022-02-09-sistemas-mecanicos/file-4.jpg" alt="Polea móvil"/>
+  <figcaption>Polea móvil.</figcaption>
+</figure>
+
+<figure>
+  <img src="https://bayaspirina.github.io/Bayas/assets/2022-02-09-sistemas-mecanicos/file-5.jpg" alt="Polipasto"/>
+  <figcaption>Polipasto.</figcaption>
+</figure>
