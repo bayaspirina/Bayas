@@ -14,7 +14,9 @@ author: Bayas
 
 # Fuentes:
 
-- [Ley de la palanca - Wikipedia](https://es.wikipedia.org/wiki/Palanca#Ley_de_la_palanca){:target="_blank"}
+- [Sistema mecánico - Euroinnova](https://www.euroinnova.edu.es/cursos/montaje-mantenimiento-sistema-mecanico)
+- [Elementos mecánicos - PostgradoIndustrial](https://postgradoindustrial.com/elementos-mecanicos-que-son-y-como-se-clasifican/)
+- [Polea - Wikipedia](es.wikipedia.org/wiki/Polea){:target="_blank"}
 
 # Actividad:
 
