@@ -17,11 +17,7 @@ author: Bayas
 
 # Actividad:
 
-1. Dada las sigla CNC (control numérico computarizado) realizar una búsqueda y una breve reseña histórica de cómo surgió y lugar, y en qué tipo de máquinas – herramientas fueron las primeras a las cuales se aplicó esta tecnología.
-
-2. Dada esta tecnología CNC y los ya conocidos tornos convencionales que han utilizado en años anteriores. Realizar un cuadro en donde nombren ventajas y desventajas entre uno y otro. Ya sea económico, puesta a puntos, productividad, finalización de piezas, y otras características que crean importantes.
-
-3. Pensando en la soldadora MIG realizar una búsqueda y una breve reseña histórica de cómo surgió y lugar.
+1. Dada las sigla CNC (control numérico computarizado) realizar una búsqueda y una breve reseña histórica de cómo surgió y lugar, y en qué tipo de máquinas – herramientas fueron las primeras a las cuales se apl
 
 4. Dada esta tecnología MIG y los ya conocida soldadora convencional que han utilizado en años anteriores. Realizar un cuadro en donde nombren ventajas y desventajas entre uno y otro. Ya sea económico, puesta a puntos, productividad, finalización de piezas, y otras características que crean importantes.
 
