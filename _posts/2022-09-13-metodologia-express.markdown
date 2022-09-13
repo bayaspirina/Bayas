@@ -57,21 +57,13 @@ author: Anon
 - Utilizan formulas analíticas y sintéticas.
 
 # Problemas:
-    Abiertos:
-        - Tienen mas de una solución e interpretación.
-        - Se relacionan con la eficiencia y la fiabilidad.
-        - Requiere de investigación tecnológica.
-        - Se deben aplicar conocimientos de ciencias básicas y tecnologías.
 
-    Cerrados:
-        - Su resolución es lineal.
-        - Sus variables están expresadas en el enunciado.
-
-    Teóricos:
-        - Su solución es una explicación que requiere de la imaginación.
-
-    Prácticos:
-        - Su solución requiere de acción e intervención.
+| Abiertos                                                            | Cerrados                                          | Teóricos                                                         | Prácticos                                        |
+|---------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------|
+| - Tienen mas de una solución e interpretación.                      | - Su resolución es lineal.                        | - Su solución es una explicación que requiere de la imaginación. | - Su solución requiere de acción e intervención. |
+| - Se relacionan con la eficiencia y la fiabilidad.                  | - Sus variables están expresadas en el enunciado. |                                                                  |                                                  |
+| - Requiere de investigación tecnológica.                            |                                                   |                                                                  |                                                  |
+| - Se deben aplicar conocimientos de ciencias básicas y tecnologías. |                                                   |                                                                  |                                                  |
 
 # Ejercicios:
 
@@ -80,4 +72,4 @@ author: Anon
 # Definición:
 
 - Compuesta por el **definiendum** y el **definiens**.
-- 
+-
