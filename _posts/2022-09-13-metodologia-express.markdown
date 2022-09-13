@@ -56,12 +56,28 @@ author: Anon
 - No se conoce el valor de verdad de sus enunciados.
 - Utilizan formulas analíticas y sintéticas.
 
-# Problemas abiertos:
+# Problemas:
+    Abiertos:
+        - Tienen mas de una solución e interpretación.
+        - Se relacionan con la eficiencia y la fiabilidad.
+        - Requiere de investigación tecnológica.
+        - Se deben aplicar conocimientos de ciencias básicas y tecnologías.
 
-- Tienen mas de una solución e interpretación.
-- Se relacionan con la eficiencia y la fiabilidad.
+    Cerrados:
+        - Su resolución es lineal.
+        - Sus variables están expresadas en el enunciado.
+
+    Teóricos:
+        - Su solución es una explicación que requiere de la imaginación.
+
+    Prácticos:
+        - Su solución requiere de acción e intervención.
+
+# Ejercicios:
+
+- Se resuelven aplicando algoritmos o estableciendo analogías.
+
+# Definición:
+
+- Compuesta por el **definiendum** y el **definiens**.
 - 
-
-# Problemas cerrados:
-
--
