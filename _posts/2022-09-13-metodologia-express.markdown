@@ -4,7 +4,7 @@ title:  "Apuntes Express"
 date:   2022-09-13 17:21:22 -0300
 categories: Metodologia-del-Aprendizaje
 grado: 1C1
-author: Bayas
+author: Anon
 ---
 
 # El método científico:
@@ -13,6 +13,7 @@ author: Bayas
 - Genera conocimiento falible.
 - Tiene justificación pragmática.
 - Se basan en la realidad, no la teoría.
+- Valida hipótesis planteadas a partir de hechos de la realidad.
 
 # Conocimiento científico:
 
@@ -43,9 +44,24 @@ author: Bayas
 - Su objeto de estudio es teórico.
 - Son autosuficientes.
 - Se validan de forma meramente racional.
-
+- Sus enunciados son verdaderos por definición.
+- Parten de axiomas considerados verdaderos.
+- Utilizan formulas analíticas.
 
 # Ciencias fácticas:
 
-- Se **verifican** o **refutan** mediante la contrastación de enunciados.
+- Se **verifican** o **refutan** mediante la contrastación empírica de enunciados.
 - Su objeto de estudio son hechos, aspectos de la realidad.
+- Sus teorías son parciales y corregibles.
+- No se conoce el valor de verdad de sus enunciados.
+- Utilizan formulas analíticas y sintéticas.
+
+# Problemas abiertos:
+
+- Tienen mas de una solución e interpretación.
+- Se relacionan con la eficiencia y la fiabilidad.
+- 
+
+# Problemas cerrados:
+
+-
