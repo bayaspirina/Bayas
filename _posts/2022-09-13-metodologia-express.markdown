@@ -7,29 +7,45 @@ grado: 1C1
 author: Bayas
 ---
 
-El método científico:
+# El método científico:
 
 - Pretende emplear las mismas técnicas de contrastación en todos los dominios de conocimiento.
 - Genera conocimiento falible.
 - Tiene justificación pragmática.
 - Se basan en la realidad, no la teoría.
--
--
--
 
-Conocimiento científico:
+# Conocimiento científico:
 
 - Es racional, objetivo e intenta adaptarse a los hechos.
 - Es complejo y especializado.
 - Es avalado por teorías científicas.
 
-Investigación científica:
-
-- Requiere de conocimiento previo.
-- Tiene conocimiento científico como producto.
--
-
-Programas de I+D:
+# Programas de I+D:
 
 - Promueve la Investigación científica.
 - Sus fines son determinados por aspectos sociales y/o económicos.
+
+# Investigación científica:
+
+- Requiere de conocimiento previo.
+- Tiene conocimiento científico como producto.
+
+# Marco teórico:
+
+- Aporta el conocimiento base para la investigación.
+- Son los componentes de una o mas teorías que están presentes en la investigación.
+- Sustenta el planteo del problema y las hipótesis.
+- Se le llama **plural** cuando lo componen teorías de distintos campos.
+- Los marcos plurales pueden presentar incompatibilidades.
+
+# Ciencias Formales:
+
+- Su objeto de estudio es teórico.
+- Son autosuficientes.
+- Se validan de forma meramente racional.
+
+
+# Ciencias fácticas:
+
+- Se **verifican** o **refutan** mediante la contrastación de enunciados.
+- Su objeto de estudio son hechos, aspectos de la realidad.
