@@ -58,12 +58,12 @@ author: Anon
 
 # Problemas:
 
-| Abiertos                                                            | Cerrados                                          | Teóricos                                                         | Prácticos                                        |
-|---------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------|
-| - Tienen mas de una solución e interpretación.                      | - Su resolución es lineal.                        | - Su solución es una explicación que requiere de la imaginación. | - Su solución requiere de acción e intervención. |
-| - Se relacionan con la eficiencia y la fiabilidad.                  | - Sus variables están expresadas en el enunciado. |                                                                  |                                                  |
-| - Requiere de investigación tecnológica.                            |                                                   |                                                                  |                                                  |
-| - Se deben aplicar conocimientos de ciencias básicas y tecnologías. |                                                   |                                                                  |                                                  |
+| Abiertos | Cerrados | Teóricos | Prácticos |
+|---|---|---|---|
+| - Tienen mas de una solución e interpretación. | - Su resolución es lineal. | - Su solución es una explicación que requiere de la imaginación. | - Su solución requiere de acción e intervención. |
+| - Se relacionan con la eficiencia y la fiabilidad. | - Sus variables están expresadas en el enunciado. |  |  |
+| - Requiere de investigación tecnológica. |  |  |  |
+| - Se deben aplicar conocimientos de ciencias básicas y tecnologías. |  |  |  |
 
 # Ejercicios:
 
@@ -71,5 +71,12 @@ author: Anon
 
 # Definición:
 
-- Compuesta por el **definiendum** y el **definiens**.
--
+- Compuesta por el **definiendum** (expresión a definir) y el **definiens** (expresión que da el significado).
+- Elimina ambigüedad, vaguedad y caracteriza a una entidad o propiedad.
+- Facilitan la universidad de los contenidos.
+
+# Concepto:
+
+- Es el elemento básico del pensamiento.
+- No tienen valor de verdad.
+- Se puede clasificar según su función metodológica o su observabilidad.
