@@ -80,3 +80,12 @@ author: Anon
 - Es el elemento básico del pensamiento.
 - No tienen valor de verdad.
 - Se puede clasificar según su función metodológica o su observabilidad.
+
+# Modelo hipotético-deductivo:
+
+- Realiza pruebas para contrastar las hipótesis y decidir si refutarla o aceptarla.
+- Estas pruebas pueden ser empíricas o conceptuales.
+
+# Enfoque internalista de la ciencia:
+
+- 
